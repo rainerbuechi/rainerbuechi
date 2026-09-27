@@ -3,7 +3,6 @@
 I'm a Physics student interested in:
 
 - Computational physics
-- Creating Youtube Videos
 - Numerical simulations
 - Data analysis
 
